@@ -1,2 +1,4 @@
-for i in [0, 1, 2, 3, 4, 5]:
-    print(i)
+names = ["rakib", "rafi","rima", "nipa"]
+
+for name in names:
+    print(name)
