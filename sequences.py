@@ -1,3 +1,6 @@
-name = ["Rakib", "rafi", "sakib", "hafsa"]
+name = ["rakib", "rafi", "sakib", "hafsa", "eshrak", "sabit"]
 
-print(name[3])
+name.append("mamun")
+name.sort()
+
+print(name)
