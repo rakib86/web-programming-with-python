@@ -1,4 +1,4 @@
-names = ["rakib", "rafi","rima", "nipa"]
+name = "Rakib"
 
-for name in names:
-    print(name)
+for ch in name:
+    print(ch)
